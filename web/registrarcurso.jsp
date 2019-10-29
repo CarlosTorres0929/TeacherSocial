@@ -1,8 +1,8 @@
 <%@page import="dao.cursoDao"%>
 <%@page import="modelo.curso"%>
 <!-- <%-- 
-    Document   : ListarVehiculos
-    Created on : 18-feb-2019, 19:40:43
+    Document   : registrar
+    Created on : 11-oct-2019, 19:40:43
     Author     : Carlos Torres
 --%>
 
@@ -411,7 +411,7 @@
 							</li>
 
 							<li class="active">
-								<a href="registrar.jsp">
+								<a href="registrarcurso.jsp">
 									<i class="menu-icon fa fa-caret-right"></i>
 									Registrar curso
 								</a>
@@ -419,7 +419,7 @@
 								<b class="arrow"></b>
 							</li>
                                                         <li class="">
-								<a href="registrarTipoVehi.jsp">
+								<a href="profesor.jsp">
 									<i class="menu-icon fa fa-caret-right"></i>
 									Registrar profesor
 								</a>
